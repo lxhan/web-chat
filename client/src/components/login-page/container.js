@@ -5,13 +5,13 @@ const Container = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    grid-column: 2 /3;
+    grid-column: 2 / 3;
     grid-row: 2 / 3;
     background: #3d3d3d;
     border-radius: 4px;
     color: #fff;
     padding: 4em;
-    width: 300px;
+    width: 15rem;
 `;
 
 export default Container;
