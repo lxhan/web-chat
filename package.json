@@ -10,7 +10,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "socket.io": "^2.5.0",
-    "moment": "^2.29.2"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "concurrently": "^7.5.0"
